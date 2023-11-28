@@ -1,2 +1,2 @@
-## Java-Calculator
+## Java-Calculator 🧮
 The "Basic Calculator using Java" is a simple console-based program designed to perform arithmetic operations on two numbers. Written in the Java programming language, the calculator prompts the user to input the first number, an operator (+, -, *, /), and the second number. The program then utilizes a switch statement to carry out the specified arithmetic operation, considering addition, subtraction, multiplication, and division.
